@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geshak
 - 👀 I’m interested in ... Azure Automation
-- 🌱 I’m currently learning ...Azure architicture
+- 🌱 I’m currently learning ...Azure architecture 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
